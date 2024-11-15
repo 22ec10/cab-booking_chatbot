@@ -1,0 +1,28 @@
+
+h1{
+    text-align: center;
+}
+body {
+    font-family: sans-serif;
+    line-height: 2;
+    font-weight: bold;
+    padding: 20px;
+    text-shadow: 2px 2px rgba(48, 108, 188, 0.39);
+}
+#chatbox {
+    background-image: url(images/istockphoto-1488335095-612x612.jpg);
+    background-size: cover;
+    border: 10px solid rgba(255, 235, 205, 0.315);
+    border-bottom: 0;
+    border-right: 0;
+    padding: 10px;
+    height: 400px;
+    overflow-y: scroll;
+   
+}
+#userInput {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 2px solid gray;
+}
